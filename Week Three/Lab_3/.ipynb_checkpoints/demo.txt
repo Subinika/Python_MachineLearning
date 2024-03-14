@@ -1,0 +1,2 @@
+Rewrite using with open in write mode.
+Added append line using with open in append mode
